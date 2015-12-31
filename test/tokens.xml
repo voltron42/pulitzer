@@ -1,0 +1,2936 @@
+<body>
+  <open type="Heading">
+    <heading-config h-level="1"></heading-config>
+  </open>
+  <inline content="MONSTER MAKER">
+    <content type="Text" text="MONSTER MAKER"></content>
+  </inline>
+  <close type="Heading"></close>
+  <content type="HTMLBlock" text="&lt;svg width=&#34;350&#34; height=&#34;200&#34;&gt;&#xA;  &lt;defs&gt;&#xA;    &lt;g id=&#34;m&#34;&gt;&#xA;      &lt;path d=&#34;M27 33 L27 59 L39 59 L39 1 L25 1 L20 26 L15 1 L1 1 L1 59 L13 59 L13 33 L20 58 L27 33 Z&#34; fill=&#34;white&#34; stroke=&#34;black&#34; stroke-width=&#34;4&#34;/&gt;&#xA;    &lt;/g&gt;&#xA;    &lt;g id=&#34;a&#34;&gt;&#xA;      &lt;path d=&#34;M26 59 L39 59 L26 1 L13 1 L1 59 L13 59 L20 26 Z&#34; fill=&#34;white&#34; stroke=&#34;black&#34; stroke-width=&#34;4&#34;/&gt;&#xA;    &lt;/g&gt;&#xA;    &lt;g id=&#34;k&#34;&gt;&#xA;      &lt;path d=&#34;M13 59 L13 59 L1 59 L1 1 L13 1 L13 25 L26 1 L39 1 L20 35 L39 59 L26 59 L13 43 L13 59 Z&#34; fill=&#34;white&#34; stroke=&#34;black&#34; stroke-width=&#34;4&#34;/&gt;&#xA;    &lt;/g&gt;&#xA;    &lt;g id=&#34;n&#34;&gt;&#xA;      &lt;path d=&#34;M1 1 L1 59 L13 59 L13 32 L26 59 L39 59 L39 1 L26 1 L26 28 L13 1 Z&#34; fill=&#34;white&#34; stroke=&#34;black&#34; stroke-width=&#34;4&#34;/&gt;&#xA;    &lt;/g&gt;&#xA;    &lt;g id=&#34;e&#34;&gt;&#xA;      &lt;path d=&#34;M13 24 L13 13 L39 13 L39 1 L1 1 L1 59 L39 59 L39 47 L13 47 L13 36 L27 36 L27 24 Z&#34; fill=&#34;white&#34; stroke=&#34;black&#34; stroke-width=&#34;4&#34;/&gt;&#xA;    &lt;/g&gt;&#xA;    &lt;g id=&#34;t&#34;&gt;&#xA;      &lt;path d=&#34;M1 1 L1 13 L14 13 L14 59 L26 59 L26 13 L39 13 L39 1 Z&#34; fill=&#34;white&#34; stroke=&#34;black&#34; stroke-width=&#34;4&#34;/&gt;&#xA;    &lt;/g&gt;&#xA;    &lt;g id=&#34;r&#34;&gt;&#xA;    &lt;path d=&#34;M1,1 L1,59 L13,59 L13,46 L26,59 L39,59 L22,39 A18,18 0 0,0 22,1 Z&#34; fill=&#34;white&#34; stroke=&#34;black&#34; stroke-width=&#34;4&#34;/&gt;&#xA;    &lt;path d=&#34;M13,13 L22,13 A8,8 0 0,1 22,29 L13,29 Z&#34; fill=&#34;white&#34; stroke=&#34;black&#34; stroke-width=&#34;4&#34;/&gt;&#xA;    &lt;/g&gt;&#xA;    &lt;g id=&#34;o&#34;&gt;&#xA;      &lt;path d=&#34;M1 20 A19,19 0 0,1 39,20 L39 40 A19,19 0 0,1 1,40 Z&#34; fill=&#34;white&#34; stroke=&#34;black&#34; stroke-width=&#34;4&#34;/&gt;&#xA;      &lt;path d=&#34;M13 20 A3,3 0 0,1 26,20 L26 40 A3,3 0 0,1 13,40 Z&#34; fill=&#34;white&#34; stroke=&#34;black&#34; stroke-width=&#34;4&#34;/&gt;&#xA;    &lt;/g&gt;&#xA;    &lt;g id=&#34;s&#34;&gt;&#xA;      &lt;path d=&#34;M4 40 L16 40 A4,4 0 1,0 20,36 A16,16 0 1,1 36,20 L24,20 A4,4 0 1,0 20,24 A16,16 0 1,1 4,40 Z&#34; fill=&#34;white&#34; stroke=&#34;black&#34; stroke-width=&#34;4&#34;/&gt;&#xA;    &lt;/g&gt;&#xA;  &lt;/defs&gt;&#xA;  &lt;rect width=&#34;350&#34; height=&#34;200&#34; fill=&#34;white&#34;/&gt;&#xA;  &lt;path d=&#34;M320 31 L276 31 L276 129 L291 129 L291 80 L305 80 L329 129 L344 129 L320 80 A25,25 90 0,0 320 31 Z&#34; fill=&#34;white&#34; stroke=&#34;black&#34; stroke-width=&#34;4&#34;/&gt;&#xA;  &lt;path d=&#34;M315 46 L291 46 L291 65 L315 65 A9 9 90 0,0 315 46 Z&#34; fill=&#34;white&#34; stroke=&#34;black&#34; stroke-width=&#34;4&#34;/&gt;&#xA;  &lt;use xlink:href=&#34;#o&#34; x=&#34;75&#34; y=&#34;40&#34;/&gt;&#xA;  &lt;use xlink:href=&#34;#n&#34; x=&#34;115&#34; y=&#34;40&#34;/&gt;&#xA;  &lt;use xlink:href=&#34;#s&#34; x=&#34;155&#34; y=&#34;40&#34;/&gt;&#xA;  &lt;use xlink:href=&#34;#t&#34; x=&#34;195&#34; y=&#34;40&#34;/&gt;&#xA;  &lt;use xlink:href=&#34;#e&#34; x=&#34;235&#34; y=&#34;40&#34;/&gt;&#xA;  &lt;use xlink:href=&#34;#m&#34; x=&#34;75&#34; y=&#34;100&#34;/&gt;&#xA;  &lt;use xlink:href=&#34;#a&#34; x=&#34;115&#34; y=&#34;100&#34;/&gt;&#xA;  &lt;use xlink:href=&#34;#k&#34; x=&#34;155&#34; y=&#34;100&#34;/&gt;&#xA;  &lt;use xlink:href=&#34;#e&#34; x=&#34;195&#34; y=&#34;100&#34;/&gt;&#xA;  &lt;use xlink:href=&#34;#r&#34; x=&#34;235&#34; y=&#34;100&#34;/&gt;&#xA;  &lt;path d=&#34;M59 60 L59 129 L74 129 L74 31 L50 31 L40 97 L30 31 L6 31 L6 129 L21 129 L21 60 L32 129 L48 129 Z&#34; fill=&#34;white&#34; stroke=&#34;black&#34; stroke-width=&#34;4&#34;/&gt;&#xA;&lt;/svg&gt;&#xA;"></content>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="Monster Maker is a competative deck-building game for 2 - 4 players. Players play rival mad scientists each trying to build the most powerful army of monsters that they can.">
+    <content type="Text" text="Monster Maker is a competative deck-building game for 2 - 4 players. Players play rival mad scientists each trying to build the most powerful army of monsters that they can."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="2"></heading-config>
+  </open>
+  <inline content="How To Play">
+    <content type="Text" text="How To Play"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="Monster Maker is a deck-building game: means that each player starts with a small deck of the same cards and take turns acquiring cards from a shared pool of unique cards to each add to their own deck. In Monster Maker, the cards are the parts that the players will use to create their monsters. At the end of the game, each player will score the monsters that they are able to build from their deck. The player with the highest score wins.">
+    <content type="Text" text="Monster Maker is a deck-building game: means that each player starts with a small deck of the same cards and take turns acquiring cards from a shared pool of unique cards to each add to their own deck. In Monster Maker, the cards are the parts that the players will use to create their monsters. At the end of the game, each player will score the monsters that they are able to build from their deck. The player with the highest score wins."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="How to create a Monster">
+    <content type="Text" text="How to create a Monster"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="Each card is one of three types: Head, Torso, Feet. Each card type has a related stat: Brains, Brawn, Speed.">
+    <content type="Text" text="Each card is one of three types: Head, Torso, Feet. Each card type has a related stat: Brains, Brawn, Speed."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="```This is a Head Card. This card is worth 2 Brains.```">
+    <content type="CodeInline" text="This is a Head Card. This card is worth 2 Brains."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/frank_head.png)">
+    <image src="../cardImages/frank_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="```This is a Torso Card. This card is worth 4 Brawn.```">
+    <content type="CodeInline" text="This is a Torso Card. This card is worth 4 Brawn."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![torso](../cardImages/frank_torso.png)">
+    <image src="../cardImages/frank_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="```This is a Feet Card. This card is worth 2 Speed.```">
+    <content type="CodeInline" text="This is a Feet Card. This card is worth 2 Speed."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/frank_feet.png)">
+    <image src="../cardImages/frank_feet.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="Line of one of each of the three types of cards and you have a __Complete__ Monster.">
+    <content type="Text" text="Line of one of each of the three types of cards and you have a "></content>
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Complete"></content>
+    <close type="Strong"></close>
+    <content type="Text" text=" Monster."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/cyclops_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/green_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/wolf_feet.png)">
+    <image src="../cardImages/cyclops_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/green_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/wolf_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="Line up two cards of (any) different types, and you have a __Partial__ Monster.">
+    <content type="Text" text="Line up two cards of (any) different types, and you have a "></content>
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Partial"></content>
+    <close type="Strong"></close>
+    <content type="Text" text=" Monster."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="```This is a __Partial__ Monster.```">
+    <content type="CodeInline" text="This is a __Partial__ Monster."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/rob_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/zombie_torso.png)">
+    <image src="../cardImages/rob_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/zombie_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="```So is this.```">
+    <content type="CodeInline" text="So is this."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![torso](../cardImages/skel_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/lagoon_feet.png)">
+    <image src="../cardImages/skel_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/lagoon_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="```This is too.```">
+    <content type="CodeInline" text="This is too."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/plant_head.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/minotaur_feet.png)">
+    <image src="../cardImages/plant_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/minotaur_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Set - Up">
+    <content type="Text" text="Set - Up"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="To set up the game, separate and distribute the cards as follows:">
+    <content type="Text" text="To set up the game, separate and distribute the cards as follows:"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="4"></heading-config>
+  </open>
+  <inline content="Laboratories">
+    <content type="Text" text="Laboratories"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="Each player is given a Laboratory card and a slider. This is an oversized card which is not played, but is instead used by the players to track their damage taken. Attach the slider to the highest point on the damage meter. Each Laboratory also has a special ability.">
+    <content type="Text" text="Each player is given a Laboratory card and a slider. This is an oversized card which is not played, but is instead used by the players to track their damage taken. Attach the slider to the highest point on the damage meter. Each Laboratory also has a special ability."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="4"></heading-config>
+  </open>
+  <inline content="Player Decks">
+    <content type="Text" text="Player Decks"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="Each player starts with a deck of 4 of each of the following cards:">
+    <content type="Text" text="Each player starts with a deck of 4 of each of the following cards:"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/jock_head.png)&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;![torso](../cardImages/nerd_torso.png)&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;![feet](../cardImages/nerd_feet.png)">
+    <image src="../cardImages/jock_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/nerd_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/nerd_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="At the start of the game, each player will shuffle their deck and deal themselves a hand of 6 cards face up on the table.">
+    <content type="Text" text="At the start of the game, each player will shuffle their deck and deal themselves a hand of 6 cards face up on the table."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="4"></heading-config>
+  </open>
+  <inline content="Common resource stacks">
+    <content type="Text" text="Common resource stacks"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="There will be multiple copies of each of the following cards.">
+    <content type="Text" text="There will be multiple copies of each of the following cards."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/nerd_head.png)&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;![torso](../cardImages/jock_torso.png)&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;![feet](../cardImages/jock_feet.png)">
+    <image src="../cardImages/nerd_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/jock_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/jock_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="These are parts that are always available. Place each stack of these cards face up where all players can reach.">
+    <content type="Text" text="These are parts that are always available. Place each stack of these cards face up where all players can reach."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="4"></heading-config>
+  </open>
+  <inline content="Center Deck">
+    <content type="Text" text="Center Deck"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="Shuffle the remaining cards and place alongside the stacks of common cards. Flip up the top seven cards in a row between all the players. This is the Conveyer.">
+    <content type="Text" text="Shuffle the remaining cards and place alongside the stacks of common cards. Flip up the top seven cards in a row between all the players. This is the Conveyer."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="4"></heading-config>
+  </open>
+  <inline content="Example layout">
+    <content type="Text" text="Example layout"></content>
+  </inline>
+  <close type="Heading"></close>
+  <content type="HTMLBlock" text="&lt;svg width=&#34;600&#34; height=&#34;400&#34;&gt;&#xA;  &lt;rect width=&#34;600&#34; height=&#34;400&#34; fill=&#34;white&#34;/&gt;&#xA;  &lt;line x1=&#34;0&#34; y1=&#34;200&#34; x2=&#34;600&#34; y2=&#34;200&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34; stroke-dasharray=&#34;5 2&#34;/&gt;&#xA;  &lt;text x=&#34;250&#34; y=&#34;190&#34; fill=&#34;black&#34;&gt;Center Area&lt;/text&gt;&#xA;  &lt;text x=&#34;250&#34; y=&#34;220&#34; fill=&#34;black&#34;&gt;Player Area&lt;/text&gt;&#xA;  &lt;rect x=&#34;20&#34; y=&#34;40&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;40&#34; width=&#34;70&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;rect x=&#34;20&#34; y=&#34;90&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;40&#34; width=&#34;70&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;rect x=&#34;20&#34; y=&#34;140&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;40&#34; width=&#34;70&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;rect x=&#34;105&#34; y=&#34;30&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;40&#34; width=&#34;70&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;rect x=&#34;120&#34; y=&#34;80&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;70&#34; width=&#34;40&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;rect x=&#34;190&#34; y=&#34;80&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;70&#34; width=&#34;40&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;rect x=&#34;240&#34; y=&#34;80&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;70&#34; width=&#34;40&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;rect x=&#34;290&#34; y=&#34;80&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;70&#34; width=&#34;40&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;rect x=&#34;340&#34; y=&#34;80&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;70&#34; width=&#34;40&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;rect x=&#34;390&#34; y=&#34;80&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;70&#34; width=&#34;40&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;rect x=&#34;440&#34; y=&#34;80&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;70&#34; width=&#34;40&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;rect x=&#34;490&#34; y=&#34;80&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;70&#34; width=&#34;40&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;text x=&#34;120&#34; y=&#34;55&#34; fill=&#34;black&#34;&gt;Scrap&lt;/text&gt;&#xA;  &lt;text x=&#34;120&#34; y=&#34;165&#34; fill=&#34;black&#34;&gt;Center&lt;tspan x=&#34;120&#34; y=&#34;180&#34;&gt;Deck&lt;/tspan&gt;&lt;/text&gt;&#xA;  &lt;text x=&#34;300&#34; y=&#34;60&#34; fill=&#34;black&#34;&gt;Conveyer&lt;/text&gt;&#xA;  &lt;text x=&#34;22&#34; y=&#34;20&#34; fill=&#34;black&#34;&gt;Common&lt;tspan x=&#34;20&#34; y=&#34;35&#34;&gt;Resources&lt;/tspan&gt;&lt;/text&gt;&#xA;  &lt;rect x=&#34;20&#34; y=&#34;260&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;40&#34; width=&#34;70&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;text x=&#34;30&#34; y=&#34;285&#34; fill=&#34;black&#34;&gt;Discard&lt;/text&gt;&#xA;  &lt;rect x=&#34;20&#34; y=&#34;310&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;40&#34; width=&#34;70&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;text x=&#34;35&#34; y=&#34;335&#34; fill=&#34;black&#34;&gt;Deck&lt;/text&gt;&#xA;  &lt;text x=&#34;240&#34; y=&#34;270&#34; fill=&#34;black&#34;&gt;Hand&lt;/text&gt;&#xA;  &lt;rect x=&#34;140&#34; y=&#34;280&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;70&#34; width=&#34;40&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;rect x=&#34;190&#34; y=&#34;280&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;70&#34; width=&#34;40&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;rect x=&#34;240&#34; y=&#34;280&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;70&#34; width=&#34;40&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;rect x=&#34;290&#34; y=&#34;280&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;70&#34; width=&#34;40&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;rect x=&#34;340&#34; y=&#34;280&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;70&#34; width=&#34;40&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;  &lt;rect x=&#34;390&#34; y=&#34;280&#34; rx=&#34;5&#34; ry=&#34;5&#34; height=&#34;70&#34; width=&#34;40&#34; fill=&#34;none&#34; stroke=&#34;black&#34; stroke-width=&#34;2&#34;/&gt;&#xA;&lt;/svg&gt;&#xA;"></content>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="How To Play">
+    <content type="Text" text="How To Play"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="On your turn, you may use whatever cards you have in your hand to acquire cards from the center row, or, if you have one card of each type, you may create a monster and attack one of your opponent&#39;s. You may also use the special abilities of a card in your hand. Your turn ends when you have used or discarded all the cards from your hand and deal yourself a new hand of 6 cards. The next player begins their turn by scrapping (placing face up on the Scrap pile -- see above) the card on the Conveyer furthest from the center deck, sliding all of the Conveyer cards down one space, and drawing a new card from the center deck to add to the Conveyer. Once the center deck and the conveyer are empty, the game is over, and the players will score their decks (see Scoring below).">
+    <content type="Text" text="On your turn, you may use whatever cards you have in your hand to acquire cards from the center row, or, if you have one card of each type, you may create a monster and attack one of your opponent&#39;s. You may also use the special abilities of a card in your hand. Your turn ends when you have used or discarded all the cards from your hand and deal yourself a new hand of 6 cards. The next player begins their turn by scrapping (placing face up on the Scrap pile -- see above) the card on the Conveyer furthest from the center deck, sliding all of the Conveyer cards down one space, and drawing a new card from the center deck to add to the Conveyer. Once the center deck and the conveyer are empty, the game is over, and the players will score their decks (see Scoring below)."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="4"></heading-config>
+  </open>
+  <inline content="How To Acquire">
+    <content type="Text" text="How To Acquire"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="The cards in your hand act as currency to acquire cards from the center row, but each type (Brains, Brawn, Speed) can only be used to acquire cards of the same type. Total up the points in your hand for each stat; you have that much to spend to acquire. When you have chosen which cards you wish to acquire, place both the cards you&#39;ve acquired and the cards you&#39;ve spent in your discard pile. For Example:">
+    <content type="Text" text="The cards in your hand act as currency to acquire cards from the center row, but each type (Brains, Brawn, Speed) can only be used to acquire cards of the same type. Total up the points in your hand for each stat; you have that much to spend to acquire. When you have chosen which cards you wish to acquire, place both the cards you&#39;ve acquired and the cards you&#39;ve spent in your discard pile. For Example:"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="You have one brains cards in your hand worth 2 and there is a card worth 2 brains in the center row, you may acquire it.">
+    <content type="Text" text="You have one brains cards in your hand worth 2 and there is a card worth 2 brains in the center row, you may acquire it."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="You have two brains cards in your hand; one worth 2 and another worth 3, and there is a card worth 5 brains in the center row, you may acquire it.">
+    <content type="Text" text="You have two brains cards in your hand; one worth 2 and another worth 3, and there is a card worth 5 brains in the center row, you may acquire it."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="You have a brains card worth 7 in your hand and there are two brains cards in the center row, one worth 3 and one worth 4, you may acquire both of them.">
+    <content type="Text" text="You have a brains card worth 7 in your hand and there are two brains cards in the center row, one worth 3 and one worth 4, you may acquire both of them."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="Heading">
+    <heading-config h-level="4"></heading-config>
+  </open>
+  <inline content="How To Attack!">
+    <content type="Text" text="How To Attack!"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="If you are going to attack, you cannot use the cards you are using for your monster to also acquire. Separate out the cards for your monster and alert the opponent you wish to attack of your intent.">
+    <content type="Text" text="If you are going to attack, you cannot use the cards you are using for your monster to also acquire. Separate out the cards for your monster and alert the opponent you wish to attack of your intent."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="Your opponent then has the opportunity to defend. To defend, the defending player must create at least one partial monster and at most one complete or two partial monsters. If the defending player cannot do this, they must scrap two cards from their hand and take two damage on their Laboratory. If the defending player __chooses to not__ do this, they must scrap two cards from their hand and take three damage on their Laboratory.">
+    <content type="Text" text="Your opponent then has the opportunity to defend. To defend, the defending player must create at least one partial monster and at most one complete or two partial monsters. If the defending player cannot do this, they must scrap two cards from their hand and take two damage on their Laboratory. If the defending player "></content>
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="chooses to not"></content>
+    <close type="Strong"></close>
+    <content type="Text" text=" do this, they must scrap two cards from their hand and take three damage on their Laboratory."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="The Attacking monster (as with any complete monster) has three stats: Brains, Brawn, Speed. To successfully defend, the defending player&#39;s monster(s) must at least tie at least two of the three stats. If the defending player succeeds, the defending monster(s) are discarded. If not, the defending monster(s) are scrapped, and the player&#39;s Laboratory takes damage, one point if the defending player&#39;s monster(s) lose on two stats, two points if the defending player&#39;s monster(s) lose on three. (see Combat Examples below)">
+    <content type="Text" text="The Attacking monster (as with any complete monster) has three stats: Brains, Brawn, Speed. To successfully defend, the defending player&#39;s monster(s) must at least tie at least two of the three stats. If the defending player succeeds, the defending monster(s) are discarded. If not, the defending monster(s) are scrapped, and the player&#39;s Laboratory takes damage, one point if the defending player&#39;s monster(s) lose on two stats, two points if the defending player&#39;s monster(s) lose on three. (see Combat Examples below)"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="4"></heading-config>
+  </open>
+  <inline content="Special abilities">
+    <content type="Text" text="Special abilities"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="Many of the cards have special abilities. These abilities are in the box next to the card&#39;s stat.">
+    <content type="Text" text="Many of the cards have special abilities. These abilities are in the box next to the card&#39;s stat."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Table">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableHead">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="true" align="R"></empty-config>
+  </open>
+  <inline content="Name">
+    <content type="Text" text="Name"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="true" align="C"></empty-config>
+  </open>
+  <inline content="Description">
+    <content type="Text" text="Description"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <close type="TableHead"></close>
+  <open type="TableBody">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Chomp!">
+    <content type="Text" text="Chomp!"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="Monster gains +3 Brawn!">
+    <content type="Text" text="Monster gains +3 Brawn!"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Cloaking Tech">
+    <content type="Text" text="Cloaking Tech"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="Monster gains +2 Speed">
+    <content type="Text" text="Monster gains +2 Speed"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Confuse">
+    <content type="Text" text="Confuse"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="If opponent&#39;s defenting with multiple monsters, banish the weaker.">
+    <content type="Text" text="If opponent&#39;s defenting with multiple monsters, banish the weaker."></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Drag Me To Hell!">
+    <content type="Text" text="Drag Me To Hell!"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="If this monster&#39;s defense fails, banish both it and the attacker.">
+    <content type="Text" text="If this monster&#39;s defense fails, banish both it and the attacker."></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Fight Or Flight">
+    <content type="Text" text="Fight Or Flight"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="Monster gains +1 Brawn or Speed">
+    <content type="Text" text="Monster gains +1 Brawn or Speed"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Force Field">
+    <content type="Text" text="Force Field"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="Target Monster loses all Brawn bonuses">
+    <content type="Text" text="Target Monster loses all Brawn bonuses"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Make Repairs">
+    <content type="Text" text="Make Repairs"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="Banish a card from your hand or discard pile to reduce your damage">
+    <content type="Text" text="Banish a card from your hand or discard pile to reduce your damage"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Mesmerize">
+    <content type="Text" text="Mesmerize"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="Target Monster loses 1 from Speed and Brawn">
+    <content type="Text" text="Target Monster loses 1 from Speed and Brawn"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Mighty Tail">
+    <content type="Text" text="Mighty Tail"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="Monster gains +2 Brawn">
+    <content type="Text" text="Monster gains +2 Brawn"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Mummy&#39;s Curse">
+    <content type="Text" text="Mummy&#39;s Curse"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="Attacking Monster loses 1 Brawn">
+    <content type="Text" text="Attacking Monster loses 1 Brawn"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Scrap For Parts">
+    <content type="Text" text="Scrap For Parts"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="Banish this card, then draw three more">
+    <content type="Text" text="Banish this card, then draw three more"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Stealth">
+    <content type="Text" text="Stealth"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="Monster gains +1 Speed">
+    <content type="Text" text="Monster gains +1 Speed"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Stoney Gaze">
+    <content type="Text" text="Stoney Gaze"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="Target Monster&#39;s Speed is reduced to 0">
+    <content type="Text" text="Target Monster&#39;s Speed is reduced to 0"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Summoning">
+    <content type="Text" text="Summoning"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="When discarding this card from combat, draw a card">
+    <content type="Text" text="When discarding this card from combat, draw a card"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Taking Root">
+    <content type="Text" text="Taking Root"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="Monster gains +1 Brawn">
+    <content type="Text" text="Monster gains +1 Brawn"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Targeting HUD">
+    <content type="Text" text="Targeting HUD"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="Monster gains +2 Brawn">
+    <content type="Text" text="Monster gains +2 Brawn"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Toro!">
+    <content type="Text" text="Toro!"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="Monster gains +3 Brawn">
+    <content type="Text" text="Monster gains +3 Brawn"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Undying">
+    <content type="Text" text="Undying"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="If this monster has faild to defend, it is discarded instead of banished">
+    <content type="Text" text="If this monster has faild to defend, it is discarded instead of banished"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <open type="TableRow">
+    <empty-config></empty-config>
+  </open>
+  <open type="TableCell">
+    <empty-config is-head="false" align="R"></empty-config>
+  </open>
+  <inline content="Vampire Bite">
+    <content type="Text" text="Vampire Bite"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <open type="TableCell">
+    <empty-config is-head="false" align="C"></empty-config>
+  </open>
+  <inline content="Target monster loses 1 from each stat">
+    <content type="Text" text="Target monster loses 1 from each stat"></content>
+  </inline>
+  <close type="TableCell"></close>
+  <close type="TableRow"></close>
+  <close type="TableBody"></close>
+  <close type="Table"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Chomp!___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Chomp!"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Monster gains +3 Brawn!">
+    <content type="Text" text="Monster gains +3 Brawn!"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/plant_head.png)">
+    <image src="../cardImages/plant_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Cloaking Tech___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Cloaking Tech"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Monster gains +2 Speed">
+    <content type="Text" text="Monster gains +2 Speed"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![torso](../cardImages/hunter_torso.png)">
+    <image src="../cardImages/hunter_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Confuse___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Confuse"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="If opponent&#39;s defenting with multiple monsters, banish the weaker.">
+    <content type="Text" text="If opponent&#39;s defenting with multiple monsters, banish the weaker."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/devil_head.png)">
+    <image src="../cardImages/devil_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Drag Me To Hell!___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Drag Me To Hell!"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="If this monster&#39;s defense fails, banish both it and the attacker.">
+    <content type="Text" text="If this monster&#39;s defense fails, banish both it and the attacker."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![torso](../cardImages/devil_torso.png)">
+    <image src="../cardImages/devil_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Fight Or Flight___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Fight Or Flight"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Monster gains +1 Brawn or Speed">
+    <content type="Text" text="Monster gains +1 Brawn or Speed"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/wolf_head.png)">
+    <image src="../cardImages/wolf_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Force Field___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Force Field"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Target Monster loses all Brawn bonuses">
+    <content type="Text" text="Target Monster loses all Brawn bonuses"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![torso](../cardImages/green_torso.png)">
+    <image src="../cardImages/green_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Make Repairs___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Make Repairs"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Banish a card from your hand or discard pile to reduce your damage">
+    <content type="Text" text="Banish a card from your hand or discard pile to reduce your damage"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![torso](../cardImages/rob_torso.png)">
+    <image src="../cardImages/rob_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Mesmerize___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Mesmerize"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Target Monster loses 1 from Speed and Brawn">
+    <content type="Text" text="Target Monster loses 1 from Speed and Brawn"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/phantom_head.png)">
+    <image src="../cardImages/phantom_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Mighty Tail___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Mighty Tail"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Monster gains +2 Brawn">
+    <content type="Text" text="Monster gains +2 Brawn"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![feet](../cardImages/gorgon_feet.png)">
+    <image src="../cardImages/gorgon_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Mummy&#39;s Curse___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Mummy&#39;s Curse"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Attacking Monster loses 1 Brawn">
+    <content type="Text" text="Attacking Monster loses 1 Brawn"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![torso](../cardImages/mummy_torso.png)">
+    <image src="../cardImages/mummy_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Scrap For Parts___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Scrap For Parts"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Banish this card, then draw three more">
+    <content type="Text" text="Banish this card, then draw three more"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![torso](../cardImages/skel_torso.png)">
+    <image src="../cardImages/skel_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Stealth___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Stealth"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Monster gains +1 Speed">
+    <content type="Text" text="Monster gains +1 Speed"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![torso](../cardImages/invisible_torso.png)">
+    <image src="../cardImages/invisible_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Stoney Gaze___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Stoney Gaze"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Target Monster&#39;s Speed is reduced to 0">
+    <content type="Text" text="Target Monster&#39;s Speed is reduced to 0"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/gorgon_head.png)">
+    <image src="../cardImages/gorgon_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Summoning___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Summoning"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="When discarding this card from combat, draw a card">
+    <content type="Text" text="When discarding this card from combat, draw a card"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/knight_head.png)">
+    <image src="../cardImages/knight_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Taking Root___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Taking Root"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Monster gains +1 Brawn">
+    <content type="Text" text="Monster gains +1 Brawn"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![feet](../cardImages/plant_feet.png)">
+    <image src="../cardImages/plant_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Targeting HUD___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Targeting HUD"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Monster gains +2 Brawn">
+    <content type="Text" text="Monster gains +2 Brawn"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/hunter_head.png)">
+    <image src="../cardImages/hunter_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Toro!___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Toro!"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Monster gains +3 Brawn">
+    <content type="Text" text="Monster gains +3 Brawn"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![feet](../cardImages/minotaur_feet.png)">
+    <image src="../cardImages/minotaur_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Undying___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Undying"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="If this monster has faild to defend, it is discarded instead of banished">
+    <content type="Text" text="If this monster has faild to defend, it is discarded instead of banished"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/zombie_head.png)">
+    <image src="../cardImages/zombie_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="___Vampire Bite___">
+    <open type="Strong">
+      <empty-config></empty-config>
+    </open>
+    <open type="Emphasis">
+      <empty-config></empty-config>
+    </open>
+    <content type="Text" text="Vampire Bite"></content>
+    <close type="Emphasis"></close>
+    <close type="Strong"></close>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Target monster loses 1 from each stat">
+    <content type="Text" text="Target monster loses 1 from each stat"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/vamp_head.png)">
+    <image src="../cardImages/vamp_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="Heading">
+    <heading-config h-level="4"></heading-config>
+  </open>
+  <inline content="Combat Examples">
+    <content type="Text" text="Combat Examples"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Heading">
+    <heading-config h-level="5"></heading-config>
+  </open>
+  <inline content="Example Attack">
+    <content type="Text" text="Example Attack"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Lets say that a player attacks with this monster">
+    <content type="Text" text="Lets say that a player attacks with this monster"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/spaceghost_head.png)">
+    <image src="../cardImages/spaceghost_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/zombie_torso.png)">
+    <image src="../cardImages/zombie_torso.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/lagoon_feet.png)">
+    <image src="../cardImages/lagoon_feet.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="As you can see, the attacking monster has 3 Brains, 4 Brawn and 3 Speed.">
+    <content type="Text" text="As you can see, the attacking monster has 3 Brains, 4 Brawn and 3 Speed."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Successfully Defend">
+    <content type="Text" text="Successfully Defend"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="To successfully defend, all you have to do is have at least two stats be at least equal to two of the attacker&#39;s stats.">
+    <content type="Text" text="To successfully defend, all you have to do is have at least two stats be at least equal to two of the attacker&#39;s stats."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Lets defend with this:">
+    <content type="Text" text="Lets defend with this:"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/invisible_head.png)">
+    <image src="../cardImages/invisible_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/nerd_torso.png)">
+    <image src="../cardImages/nerd_torso.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/knight_feet.png)">
+    <image src="../cardImages/knight_feet.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="As you can see, our defending monster has 4 Brains, 1 Brawn and 3 Speed.">
+    <content type="Text" text="As you can see, our defending monster has 4 Brains, 1 Brawn and 3 Speed."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Our defender&#39;s 4 Brains are greater than the attacker&#39;s 3.">
+    <content type="Text" text="Our defender&#39;s 4 Brains are greater than the attacker&#39;s 3."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Our defender&#39;s 3 Speed is equal to the attacker&#39;s 3.">
+    <content type="Text" text="Our defender&#39;s 3 Speed is equal to the attacker&#39;s 3."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="We successfully defend as both our defender&#39;s Brains and Speed are at least equal to the attacker&#39;s. Now both monsters are discarded to their players respective discard piles.">
+    <content type="Text" text="We successfully defend as both our defender&#39;s Brains and Speed are at least equal to the attacker&#39;s. Now both monsters are discarded to their players respective discard piles."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="Successfully Defend with Multiple Monsters">
+    <content type="Text" text="Successfully Defend with Multiple Monsters"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="On the other hand, what if we don&#39;t have the Castle Wraith&#39;s feet?">
+    <content type="Text" text="On the other hand, what if we don&#39;t have the Castle Wraith&#39;s feet?"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Lets defend with two monsters:">
+    <content type="Text" text="Lets defend with two monsters:"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/spaceghost_head.png)">
+    <image src="../cardImages/spaceghost_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/jock_feet.png)">
+    <image src="../cardImages/jock_feet.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="-- and --">
+    <content type="Text" text="-- and --"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/jock_torso.png)">
+    <image src="../cardImages/jock_torso.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/nerd_feet.png)">
+    <image src="../cardImages/nerd_feet.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Now we have two monsters with a total of 3 Brains, 2 Brawn and 3 Speed (1 + 2)">
+    <content type="Text" text="Now we have two monsters with a total of 3 Brains, 2 Brawn and 3 Speed (1 + 2)"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Our defender&#39;s 3 Brains are equal to the attacker&#39;s 3.">
+    <content type="Text" text="Our defender&#39;s 3 Brains are equal to the attacker&#39;s 3."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Our defender&#39;s 3 Speed is equal to the attacker&#39;s 3.">
+    <content type="Text" text="Our defender&#39;s 3 Speed is equal to the attacker&#39;s 3."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="We successfully defend as both our defender&#39;s Brains and Speed are at least equal to the attacker&#39;s. Now all monsters are discarded to their players respective discard piles.">
+    <content type="Text" text="We successfully defend as both our defender&#39;s Brains and Speed are at least equal to the attacker&#39;s. Now all monsters are discarded to their players respective discard piles."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="Fail to defend">
+    <content type="Text" text="Fail to defend"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="lets say that you are only able to defend with the following:">
+    <content type="Text" text="lets say that you are only able to defend with the following:"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/spaceghost_head.png)">
+    <image src="../cardImages/spaceghost_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/jock_torso.png)">
+    <image src="../cardImages/jock_torso.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Now we have a monster with 3 Brains and 2 Brawn. (no feet means 0 Speed)">
+    <content type="Text" text="Now we have a monster with 3 Brains and 2 Brawn. (no feet means 0 Speed)"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Even though our defender ties the attacker&#39;s monster on brains, it is defeated on both Brawn and Speed. The attacker&#39;s monster is discarded, our monster is scraped, and our Laboratory takes 1 damage.">
+    <content type="Text" text="Even though our defender ties the attacker&#39;s monster on brains, it is defeated on both Brawn and Speed. The attacker&#39;s monster is discarded, our monster is scraped, and our Laboratory takes 1 damage."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="Fail to defend">
+    <content type="Text" text="Fail to defend"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="lets say that you are only able to defend with the following:">
+    <content type="Text" text="lets say that you are only able to defend with the following:"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/nerd_head.png)">
+    <image src="../cardImages/nerd_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/jock_torso.png)">
+    <image src="../cardImages/jock_torso.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Now we have a monster with 2 Brains and 2 Brawn. (no feet means 0 Speed)">
+    <content type="Text" text="Now we have a monster with 2 Brains and 2 Brawn. (no feet means 0 Speed)"></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="BulletList">
+    <empty-config></empty-config>
+  </open>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Paragraph">
+    <paragraph-config tight="true"></paragraph-config>
+  </open>
+  <inline content="Our defender is defeated on all stats (Brains, Brawn and Speed). The attacker&#39;s monster is discarded, our monster is scraped, and our Laboratory takes 2 damage.">
+    <content type="Text" text="Our defender is defeated on all stats (Brains, Brawn and Speed). The attacker&#39;s monster is discarded, our monster is scraped, and our Laboratory takes 2 damage."></content>
+  </inline>
+  <close type="Paragraph"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <close type="ListItem"></close>
+  <open type="ListItem">
+    <empty-config></empty-config>
+  </open>
+  <open type="Heading">
+    <heading-config h-level="5"></heading-config>
+  </open>
+  <inline content="Using Special Abilities">
+    <content type="Text" text="Using Special Abilities"></content>
+  </inline>
+  <close type="Heading"></close>
+  <close type="ListItem"></close>
+  <close type="BulletList"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Scoring">
+    <content type="Text" text="Scoring"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="All Monsters">
+    <content type="Text" text="All Monsters"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Cyclops">
+    <content type="Text" text="Cyclops"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/cyclops_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/cyclops_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/cyclops_feet.png)">
+    <image src="../cardImages/cyclops_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/cyclops_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/cyclops_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Red Devil">
+    <content type="Text" text="Red Devil"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/devil_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/devil_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/devil_feet.png)">
+    <image src="../cardImages/devil_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/devil_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/devil_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="The Original">
+    <content type="Text" text="The Original"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/frank_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/frank_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/frank_feet.png)">
+    <image src="../cardImages/frank_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/frank_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/frank_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Gorgon">
+    <content type="Text" text="Gorgon"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/gorgon_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/gorgon_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/gorgon_feet.png)">
+    <image src="../cardImages/gorgon_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/gorgon_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/gorgon_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Little Green Man">
+    <content type="Text" text="Little Green Man"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/green_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/green_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/green_feet.png)">
+    <image src="../cardImages/green_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/green_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/green_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Nimrod The Hunter">
+    <content type="Text" text="Nimrod The Hunter"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/hunter_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/hunter_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/hunter_feet.png)">
+    <image src="../cardImages/hunter_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/hunter_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/hunter_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Ellison Raines -- The Invisible Man">
+    <content type="Text" text="Ellison Raines -- The Invisible Man"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/invisible_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/invisible_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/invisible_feet.png)">
+    <image src="../cardImages/invisible_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/invisible_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/invisible_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Castle Wraith">
+    <content type="Text" text="Castle Wraith"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/knight_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/knight_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/knight_feet.png)">
+    <image src="../cardImages/knight_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/knight_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/knight_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Icthyosapien">
+    <content type="Text" text="Icthyosapien"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/lagoon_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/lagoon_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/lagoon_feet.png)">
+    <image src="../cardImages/lagoon_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/lagoon_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/lagoon_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Asterion">
+    <content type="Text" text="Asterion"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/minotaur_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/minotaur_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/minotaur_feet.png)">
+    <image src="../cardImages/minotaur_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/minotaur_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/minotaur_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Amenhotep III">
+    <content type="Text" text="Amenhotep III"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/mummy_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/mummy_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/mummy_feet.png)">
+    <image src="../cardImages/mummy_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/mummy_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/mummy_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Erik The Phantom">
+    <content type="Text" text="Erik The Phantom"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/phantom_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/phantom_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/phantom_feet.png)">
+    <image src="../cardImages/phantom_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/phantom_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/phantom_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Pirana Dionaea">
+    <content type="Text" text="Pirana Dionaea"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/plant_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/plant_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/plant_feet.png)">
+    <image src="../cardImages/plant_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/plant_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/plant_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="M.A.R.V.I.N.">
+    <content type="Text" text="M.A.R.V.I.N."></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/rob_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/rob_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/rob_feet.png)">
+    <image src="../cardImages/rob_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/rob_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/rob_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Boney McGee">
+    <content type="Text" text="Boney McGee"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/skel_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/skel_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/skel_feet.png)">
+    <image src="../cardImages/skel_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/skel_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/skel_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Cosmic Revenant">
+    <content type="Text" text="Cosmic Revenant"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/spaceghost_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/spaceghost_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/spaceghost_feet.png)">
+    <image src="../cardImages/spaceghost_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/spaceghost_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/spaceghost_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="The Count">
+    <content type="Text" text="The Count"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/vamp_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/vamp_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/vamp_feet.png)">
+    <image src="../cardImages/vamp_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/vamp_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/vamp_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Howler">
+    <content type="Text" text="Howler"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/wolf_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/wolf_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/wolf_feet.png)">
+    <image src="../cardImages/wolf_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/wolf_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/wolf_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+  </inline>
+  <close type="Paragraph"></close>
+  <open type="Heading">
+    <heading-config h-level="3"></heading-config>
+  </open>
+  <inline content="Zombie">
+    <content type="Text" text="Zombie"></content>
+  </inline>
+  <close type="Heading"></close>
+  <open type="Paragraph">
+    <paragraph-config tight="false"></paragraph-config>
+  </open>
+  <inline content="![head](../cardImages/zombie_head.png)&#xA;&lt;br&gt;&#xA;![torso](../cardImages/zombie_torso.png)&#xA;&lt;br&gt;&#xA;![feet](../cardImages/zombie_feet.png)&#xA;&lt;br&gt;">
+    <image src="../cardImages/zombie_head.png" text="">
+      <content type="Text" text="head"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/zombie_torso.png" text="">
+      <content type="Text" text="torso"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+    <break text="soft"></break>
+    <image src="../cardImages/zombie_feet.png" text="">
+      <content type="Text" text="feet"></content>
+    </image>
+    <break text="soft"></break>
+    <content type="HTMLInline" text="&lt;br&gt;"></content>
+  </inline>
+  <close type="Paragraph"></close>
+</body>

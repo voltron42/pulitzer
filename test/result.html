@@ -1,0 +1,616 @@
+<h1>MONSTER MAKER</h1>
+<svg width="350" height="200">
+  <defs>
+    <g id="m">
+      <path d="M27 33 L27 59 L39 59 L39 1 L25 1 L20 26 L15 1 L1 1 L1 59 L13 59 L13 33 L20 58 L27 33 Z" fill="white" stroke="black" stroke-width="4"/>
+    </g>
+    <g id="a">
+      <path d="M26 59 L39 59 L26 1 L13 1 L1 59 L13 59 L20 26 Z" fill="white" stroke="black" stroke-width="4"/>
+    </g>
+    <g id="k">
+      <path d="M13 59 L13 59 L1 59 L1 1 L13 1 L13 25 L26 1 L39 1 L20 35 L39 59 L26 59 L13 43 L13 59 Z" fill="white" stroke="black" stroke-width="4"/>
+    </g>
+    <g id="n">
+      <path d="M1 1 L1 59 L13 59 L13 32 L26 59 L39 59 L39 1 L26 1 L26 28 L13 1 Z" fill="white" stroke="black" stroke-width="4"/>
+    </g>
+    <g id="e">
+      <path d="M13 24 L13 13 L39 13 L39 1 L1 1 L1 59 L39 59 L39 47 L13 47 L13 36 L27 36 L27 24 Z" fill="white" stroke="black" stroke-width="4"/>
+    </g>
+    <g id="t">
+      <path d="M1 1 L1 13 L14 13 L14 59 L26 59 L26 13 L39 13 L39 1 Z" fill="white" stroke="black" stroke-width="4"/>
+    </g>
+    <g id="r">
+    <path d="M1,1 L1,59 L13,59 L13,46 L26,59 L39,59 L22,39 A18,18 0 0,0 22,1 Z" fill="white" stroke="black" stroke-width="4"/>
+    <path d="M13,13 L22,13 A8,8 0 0,1 22,29 L13,29 Z" fill="white" stroke="black" stroke-width="4"/>
+    </g>
+    <g id="o">
+      <path d="M1 20 A19,19 0 0,1 39,20 L39 40 A19,19 0 0,1 1,40 Z" fill="white" stroke="black" stroke-width="4"/>
+      <path d="M13 20 A3,3 0 0,1 26,20 L26 40 A3,3 0 0,1 13,40 Z" fill="white" stroke="black" stroke-width="4"/>
+    </g>
+    <g id="s">
+      <path d="M4 40 L16 40 A4,4 0 1,0 20,36 A16,16 0 1,1 36,20 L24,20 A4,4 0 1,0 20,24 A16,16 0 1,1 4,40 Z" fill="white" stroke="black" stroke-width="4"/>
+    </g>
+  </defs>
+  <rect width="350" height="200" fill="white"/>
+  <path d="M320 31 L276 31 L276 129 L291 129 L291 80 L305 80 L329 129 L344 129 L320 80 A25,25 90 0,0 320 31 Z" fill="white" stroke="black" stroke-width="4"/>
+  <path d="M315 46 L291 46 L291 65 L315 65 A9 9 90 0,0 315 46 Z" fill="white" stroke="black" stroke-width="4"/>
+  <use xlink:href="#o" x="75" y="40"/>
+  <use xlink:href="#n" x="115" y="40"/>
+  <use xlink:href="#s" x="155" y="40"/>
+  <use xlink:href="#t" x="195" y="40"/>
+  <use xlink:href="#e" x="235" y="40"/>
+  <use xlink:href="#m" x="75" y="100"/>
+  <use xlink:href="#a" x="115" y="100"/>
+  <use xlink:href="#k" x="155" y="100"/>
+  <use xlink:href="#e" x="195" y="100"/>
+  <use xlink:href="#r" x="235" y="100"/>
+  <path d="M59 60 L59 129 L74 129 L74 31 L50 31 L40 97 L30 31 L6 31 L6 129 L21 129 L21 60 L32 129 L48 129 Z" fill="white" stroke="black" stroke-width="4"/>
+</svg>
+<p>Monster Maker is a competative deck-building game for 2 - 4 players. Players play rival mad scientists each trying to build the most powerful army of monsters that they can.</p>
+<h2>How To Play</h2>
+<p>Monster Maker is a deck-building game: means that each player starts with a small deck of the same cards and take turns acquiring cards from a shared pool of unique cards to each add to their own deck. In Monster Maker, the cards are the parts that the players will use to create their monsters. At the end of the game, each player will score the monsters that they are able to build from their deck. The player with the highest score wins.</p>
+<h3>How to create a Monster</h3>
+<p>Each card is one of three types: Head, Torso, Feet. Each card type has a related stat: Brains, Brawn, Speed.</p>
+<p><code>This is a Head Card. This card is worth 2 Brains.</code></p>
+<ul>
+<li><img src="../cardImages/frank_head.png" alt="head" /></li>
+</ul>
+<p><code>This is a Torso Card. This card is worth 4 Brawn.</code></p>
+<ul>
+<li><img src="../cardImages/frank_torso.png" alt="torso" /></li>
+</ul>
+<p><code>This is a Feet Card. This card is worth 2 Speed.</code></p>
+<ul>
+<li><img src="../cardImages/frank_feet.png" alt="head" /></li>
+</ul>
+<p>Line of one of each of the three types of cards and you have a <strong>Complete</strong> Monster.</p>
+<p><img src="../cardImages/cyclops_head.png" alt="head" />
+<br>
+<img src="../cardImages/green_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/wolf_feet.png" alt="feet" /></p>
+<p>Line up two cards of (any) different types, and you have a <strong>Partial</strong> Monster.</p>
+<p><code>This is a __Partial__ Monster.</code></p>
+<p><img src="../cardImages/rob_head.png" alt="head" />
+<br>
+<img src="../cardImages/zombie_torso.png" alt="torso" /></p>
+<p><code>So is this.</code></p>
+<p><img src="../cardImages/skel_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/lagoon_feet.png" alt="feet" /></p>
+<p><code>This is too.</code></p>
+<p><img src="../cardImages/plant_head.png" alt="head" />
+<br>
+<img src="../cardImages/minotaur_feet.png" alt="feet" /></p>
+<h3>Set - Up</h3>
+<p>To set up the game, separate and distribute the cards as follows:</p>
+<h4>Laboratories</h4>
+<p>Each player is given a Laboratory card and a slider. This is an oversized card which is not played, but is instead used by the players to track their damage taken. Attach the slider to the highest point on the damage meter. Each Laboratory also has a special ability.</p>
+<h4>Player Decks</h4>
+<p>Each player starts with a deck of 4 of each of the following cards:</p>
+<p><img src="../cardImages/jock_head.png" alt="head" />
+<br>
+<br>
+<img src="../cardImages/nerd_torso.png" alt="torso" />
+<br>
+<br>
+<img src="../cardImages/nerd_feet.png" alt="feet" /></p>
+<p>At the start of the game, each player will shuffle their deck and deal themselves a hand of 6 cards face up on the table.</p>
+<h4>Common resource stacks</h4>
+<p>There will be multiple copies of each of the following cards.</p>
+<p><img src="../cardImages/nerd_head.png" alt="head" />
+<br>
+<br>
+<img src="../cardImages/jock_torso.png" alt="torso" />
+<br>
+<br>
+<img src="../cardImages/jock_feet.png" alt="feet" /></p>
+<p>These are parts that are always available. Place each stack of these cards face up where all players can reach.</p>
+<h4>Center Deck</h4>
+<p>Shuffle the remaining cards and place alongside the stacks of common cards. Flip up the top seven cards in a row between all the players. This is the Conveyer.</p>
+<h4>Example layout</h4>
+<svg width="600" height="400">
+  <rect width="600" height="400" fill="white"/>
+  <line x1="0" y1="200" x2="600" y2="200" stroke="black" stroke-width="2" stroke-dasharray="5 2"/>
+  <text x="250" y="190" fill="black">Center Area</text>
+  <text x="250" y="220" fill="black">Player Area</text>
+  <rect x="20" y="40" rx="5" ry="5" height="40" width="70" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="20" y="90" rx="5" ry="5" height="40" width="70" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="20" y="140" rx="5" ry="5" height="40" width="70" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="105" y="30" rx="5" ry="5" height="40" width="70" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="120" y="80" rx="5" ry="5" height="70" width="40" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="190" y="80" rx="5" ry="5" height="70" width="40" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="240" y="80" rx="5" ry="5" height="70" width="40" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="290" y="80" rx="5" ry="5" height="70" width="40" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="340" y="80" rx="5" ry="5" height="70" width="40" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="390" y="80" rx="5" ry="5" height="70" width="40" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="440" y="80" rx="5" ry="5" height="70" width="40" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="490" y="80" rx="5" ry="5" height="70" width="40" fill="none" stroke="black" stroke-width="2"/>
+  <text x="120" y="55" fill="black">Scrap</text>
+  <text x="120" y="165" fill="black">Center<tspan x="120" y="180">Deck</tspan></text>
+  <text x="300" y="60" fill="black">Conveyer</text>
+  <text x="22" y="20" fill="black">Common<tspan x="20" y="35">Resources</tspan></text>
+  <rect x="20" y="260" rx="5" ry="5" height="40" width="70" fill="none" stroke="black" stroke-width="2"/>
+  <text x="30" y="285" fill="black">Discard</text>
+  <rect x="20" y="310" rx="5" ry="5" height="40" width="70" fill="none" stroke="black" stroke-width="2"/>
+  <text x="35" y="335" fill="black">Deck</text>
+  <text x="240" y="270" fill="black">Hand</text>
+  <rect x="140" y="280" rx="5" ry="5" height="70" width="40" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="190" y="280" rx="5" ry="5" height="70" width="40" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="240" y="280" rx="5" ry="5" height="70" width="40" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="290" y="280" rx="5" ry="5" height="70" width="40" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="340" y="280" rx="5" ry="5" height="70" width="40" fill="none" stroke="black" stroke-width="2"/>
+  <rect x="390" y="280" rx="5" ry="5" height="70" width="40" fill="none" stroke="black" stroke-width="2"/>
+</svg>
+<h3>How To Play</h3>
+<p>On your turn, you may use whatever cards you have in your hand to acquire cards from the center row, or, if you have one card of each type, you may create a monster and attack one of your opponent's. You may also use the special abilities of a card in your hand. Your turn ends when you have used or discarded all the cards from your hand and deal yourself a new hand of 6 cards. The next player begins their turn by scrapping (placing face up on the Scrap pile -- see above) the card on the Conveyer furthest from the center deck, sliding all of the Conveyer cards down one space, and drawing a new card from the center deck to add to the Conveyer. Once the center deck and the conveyer are empty, the game is over, and the players will score their decks (see Scoring below).</p>
+<h4>How To Acquire</h4>
+<p>The cards in your hand act as currency to acquire cards from the center row, but each type (Brains, Brawn, Speed) can only be used to acquire cards of the same type. Total up the points in your hand for each stat; you have that much to spend to acquire. When you have chosen which cards you wish to acquire, place both the cards you've acquired and the cards you've spent in your discard pile. For Example:</p>
+<ul>
+<li>You have one brains cards in your hand worth 2 and there is a card worth 2 brains in the center row, you may acquire it.</li>
+<li>You have two brains cards in your hand; one worth 2 and another worth 3, and there is a card worth 5 brains in the center row, you may acquire it.</li>
+<li>You have a brains card worth 7 in your hand and there are two brains cards in the center row, one worth 3 and one worth 4, you may acquire both of them.</li>
+</ul>
+<h4>How To Attack!</h4>
+<p>If you are going to attack, you cannot use the cards you are using for your monster to also acquire. Separate out the cards for your monster and alert the opponent you wish to attack of your intent.</p>
+<p>Your opponent then has the opportunity to defend. To defend, the defending player must create at least one partial monster and at most one complete or two partial monsters. If the defending player cannot do this, they must scrap two cards from their hand and take two damage on their Laboratory. If the defending player <strong>chooses to not</strong> do this, they must scrap two cards from their hand and take three damage on their Laboratory.</p>
+<p>The Attacking monster (as with any complete monster) has three stats: Brains, Brawn, Speed. To successfully defend, the defending player's monster(s) must at least tie at least two of the three stats. If the defending player succeeds, the defending monster(s) are discarded. If not, the defending monster(s) are scrapped, and the player's Laboratory takes damage, one point if the defending player's monster(s) lose on two stats, two points if the defending player's monster(s) lose on three. (see Combat Examples below)</p>
+<h4>Special abilities</h4>
+<p>Many of the cards have special abilities. These abilities are in the box next to the card's stat.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:right">Name</th>
+<th style="text-align:center">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right">Chomp!</td>
+<td style="text-align:center">Monster gains +3 Brawn!</td>
+</tr>
+<tr>
+<td style="text-align:right">Cloaking Tech</td>
+<td style="text-align:center">Monster gains +2 Speed</td>
+</tr>
+<tr>
+<td style="text-align:right">Confuse</td>
+<td style="text-align:center">If opponent's defenting with multiple monsters, banish the weaker.</td>
+</tr>
+<tr>
+<td style="text-align:right">Drag Me To Hell!</td>
+<td style="text-align:center">If this monster's defense fails, banish both it and the attacker.</td>
+</tr>
+<tr>
+<td style="text-align:right">Fight Or Flight</td>
+<td style="text-align:center">Monster gains +1 Brawn or Speed</td>
+</tr>
+<tr>
+<td style="text-align:right">Force Field</td>
+<td style="text-align:center">Target Monster loses all Brawn bonuses</td>
+</tr>
+<tr>
+<td style="text-align:right">Make Repairs</td>
+<td style="text-align:center">Banish a card from your hand or discard pile to reduce your damage</td>
+</tr>
+<tr>
+<td style="text-align:right">Mesmerize</td>
+<td style="text-align:center">Target Monster loses 1 from Speed and Brawn</td>
+</tr>
+<tr>
+<td style="text-align:right">Mighty Tail</td>
+<td style="text-align:center">Monster gains +2 Brawn</td>
+</tr>
+<tr>
+<td style="text-align:right">Mummy's Curse</td>
+<td style="text-align:center">Attacking Monster loses 1 Brawn</td>
+</tr>
+<tr>
+<td style="text-align:right">Scrap For Parts</td>
+<td style="text-align:center">Banish this card, then draw three more</td>
+</tr>
+<tr>
+<td style="text-align:right">Stealth</td>
+<td style="text-align:center">Monster gains +1 Speed</td>
+</tr>
+<tr>
+<td style="text-align:right">Stoney Gaze</td>
+<td style="text-align:center">Target Monster's Speed is reduced to 0</td>
+</tr>
+<tr>
+<td style="text-align:right">Summoning</td>
+<td style="text-align:center">When discarding this card from combat, draw a card</td>
+</tr>
+<tr>
+<td style="text-align:right">Taking Root</td>
+<td style="text-align:center">Monster gains +1 Brawn</td>
+</tr>
+<tr>
+<td style="text-align:right">Targeting HUD</td>
+<td style="text-align:center">Monster gains +2 Brawn</td>
+</tr>
+<tr>
+<td style="text-align:right">Toro!</td>
+<td style="text-align:center">Monster gains +3 Brawn</td>
+</tr>
+<tr>
+<td style="text-align:right">Undying</td>
+<td style="text-align:center">If this monster has faild to defend, it is discarded instead of banished</td>
+</tr>
+<tr>
+<td style="text-align:right">Vampire Bite</td>
+<td style="text-align:center">Target monster loses 1 from each stat</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong><em>Chomp!</em></strong>
+<ul>
+<li>Monster gains +3 Brawn!</li>
+<li><img src="../cardImages/plant_head.png" alt="head" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Cloaking Tech</em></strong>
+<ul>
+<li>Monster gains +2 Speed</li>
+<li><img src="../cardImages/hunter_torso.png" alt="torso" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Confuse</em></strong>
+<ul>
+<li>If opponent's defenting with multiple monsters, banish the weaker.</li>
+<li><img src="../cardImages/devil_head.png" alt="head" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Drag Me To Hell!</em></strong>
+<ul>
+<li>If this monster's defense fails, banish both it and the attacker.</li>
+<li><img src="../cardImages/devil_torso.png" alt="torso" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Fight Or Flight</em></strong>
+<ul>
+<li>Monster gains +1 Brawn or Speed</li>
+<li><img src="../cardImages/wolf_head.png" alt="head" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Force Field</em></strong>
+<ul>
+<li>Target Monster loses all Brawn bonuses</li>
+<li><img src="../cardImages/green_torso.png" alt="torso" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Make Repairs</em></strong>
+<ul>
+<li>Banish a card from your hand or discard pile to reduce your damage</li>
+<li><img src="../cardImages/rob_torso.png" alt="torso" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Mesmerize</em></strong>
+<ul>
+<li>Target Monster loses 1 from Speed and Brawn</li>
+<li><img src="../cardImages/phantom_head.png" alt="head" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Mighty Tail</em></strong>
+<ul>
+<li>Monster gains +2 Brawn</li>
+<li><img src="../cardImages/gorgon_feet.png" alt="feet" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Mummy's Curse</em></strong>
+<ul>
+<li>Attacking Monster loses 1 Brawn</li>
+<li><img src="../cardImages/mummy_torso.png" alt="torso" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Scrap For Parts</em></strong>
+<ul>
+<li>Banish this card, then draw three more</li>
+<li><img src="../cardImages/skel_torso.png" alt="torso" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Stealth</em></strong>
+<ul>
+<li>Monster gains +1 Speed</li>
+<li><img src="../cardImages/invisible_torso.png" alt="torso" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Stoney Gaze</em></strong>
+<ul>
+<li>Target Monster's Speed is reduced to 0</li>
+<li><img src="../cardImages/gorgon_head.png" alt="head" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Summoning</em></strong>
+<ul>
+<li>When discarding this card from combat, draw a card</li>
+<li><img src="../cardImages/knight_head.png" alt="head" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Taking Root</em></strong>
+<ul>
+<li>Monster gains +1 Brawn</li>
+<li><img src="../cardImages/plant_feet.png" alt="feet" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Targeting HUD</em></strong>
+<ul>
+<li>Monster gains +2 Brawn</li>
+<li><img src="../cardImages/hunter_head.png" alt="head" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Toro!</em></strong>
+<ul>
+<li>Monster gains +3 Brawn</li>
+<li><img src="../cardImages/minotaur_feet.png" alt="feet" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Undying</em></strong>
+<ul>
+<li>If this monster has faild to defend, it is discarded instead of banished</li>
+<li><img src="../cardImages/zombie_head.png" alt="head" /></li>
+</ul>
+</li>
+</ul>
+<ul>
+<li><strong><em>Vampire Bite</em></strong>
+<ul>
+<li>Target monster loses 1 from each stat</li>
+<li><img src="../cardImages/vamp_head.png" alt="head" /></li>
+</ul>
+</li>
+</ul>
+<h4>Combat Examples</h4>
+<ul>
+<li>
+<h5>Example Attack</h5>
+<ul>
+<li>Lets say that a player attacks with this monster
+<ul>
+<li><img src="../cardImages/spaceghost_head.png" alt="head" /></li>
+<li><img src="../cardImages/zombie_torso.png" alt="head" /></li>
+<li><img src="../cardImages/lagoon_feet.png" alt="head" /></li>
+</ul>
+</li>
+<li>As you can see, the attacking monster has 3 Brains, 4 Brawn and 3 Speed.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Successfully Defend
+<ul>
+<li>To successfully defend, all you have to do is have at least two stats be at least equal to two of the attacker's stats.</li>
+<li>Lets defend with this:
+<ul>
+<li><img src="../cardImages/invisible_head.png" alt="head" /></li>
+<li><img src="../cardImages/nerd_torso.png" alt="head" /></li>
+<li><img src="../cardImages/knight_feet.png" alt="head" /></li>
+</ul>
+</li>
+<li>As you can see, our defending monster has 4 Brains, 1 Brawn and 3 Speed.
+<ul>
+<li>Our defender's 4 Brains are greater than the attacker's 3.</li>
+<li>Our defender's 3 Speed is equal to the attacker's 3.</li>
+</ul>
+</li>
+<li>We successfully defend as both our defender's Brains and Speed are at least equal to the attacker's. Now both monsters are discarded to their players respective discard piles.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>
+<p>Successfully Defend with Multiple Monsters</p>
+<ul>
+<li>On the other hand, what if we don't have the Castle Wraith's feet?
+<ul>
+<li>Lets defend with two monsters:
+<ul>
+<li><img src="../cardImages/spaceghost_head.png" alt="head" /></li>
+<li><img src="../cardImages/jock_feet.png" alt="head" /></li>
+</ul>
+</li>
+<li>-- and --
+<ul>
+<li><img src="../cardImages/jock_torso.png" alt="head" /></li>
+<li><img src="../cardImages/nerd_feet.png" alt="head" /></li>
+</ul>
+</li>
+<li>Now we have two monsters with a total of 3 Brains, 2 Brawn and 3 Speed (1 + 2)
+<ul>
+<li>Our defender's 3 Brains are equal to the attacker's 3.</li>
+<li>Our defender's 3 Speed is equal to the attacker's 3.</li>
+</ul>
+</li>
+<li>We successfully defend as both our defender's Brains and Speed are at least equal to the attacker's. Now all monsters are discarded to their players respective discard piles.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Fail to defend</p>
+<ul>
+<li>lets say that you are only able to defend with the following:
+<ul>
+<li><img src="../cardImages/spaceghost_head.png" alt="head" /></li>
+<li><img src="../cardImages/jock_torso.png" alt="head" /></li>
+</ul>
+</li>
+<li>Now we have a monster with 3 Brains and 2 Brawn. (no feet means 0 Speed)
+<ul>
+<li>Even though our defender ties the attacker's monster on brains, it is defeated on both Brawn and Speed. The attacker's monster is discarded, our monster is scraped, and our Laboratory takes 1 damage.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Fail to defend</p>
+<ul>
+<li>lets say that you are only able to defend with the following:
+<ul>
+<li><img src="../cardImages/nerd_head.png" alt="head" /></li>
+<li><img src="../cardImages/jock_torso.png" alt="head" /></li>
+</ul>
+</li>
+<li>Now we have a monster with 2 Brains and 2 Brawn. (no feet means 0 Speed)
+<ul>
+<li>Our defender is defeated on all stats (Brains, Brawn and Speed). The attacker's monster is discarded, our monster is scraped, and our Laboratory takes 2 damage.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h5>Using Special Abilities</h5>
+</li>
+</ul>
+<h3>Scoring</h3>
+<h3>All Monsters</h3>
+<h3>Cyclops</h3>
+<p><img src="../cardImages/cyclops_head.png" alt="head" />
+<br>
+<img src="../cardImages/cyclops_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/cyclops_feet.png" alt="feet" /></p>
+<h3>Red Devil</h3>
+<p><img src="../cardImages/devil_head.png" alt="head" />
+<br>
+<img src="../cardImages/devil_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/devil_feet.png" alt="feet" /></p>
+<h3>The Original</h3>
+<p><img src="../cardImages/frank_head.png" alt="head" />
+<br>
+<img src="../cardImages/frank_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/frank_feet.png" alt="feet" /></p>
+<h3>Gorgon</h3>
+<p><img src="../cardImages/gorgon_head.png" alt="head" />
+<br>
+<img src="../cardImages/gorgon_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/gorgon_feet.png" alt="feet" /></p>
+<h3>Little Green Man</h3>
+<p><img src="../cardImages/green_head.png" alt="head" />
+<br>
+<img src="../cardImages/green_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/green_feet.png" alt="feet" /></p>
+<h3>Nimrod The Hunter</h3>
+<p><img src="../cardImages/hunter_head.png" alt="head" />
+<br>
+<img src="../cardImages/hunter_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/hunter_feet.png" alt="feet" /></p>
+<h3>Ellison Raines -- The Invisible Man</h3>
+<p><img src="../cardImages/invisible_head.png" alt="head" />
+<br>
+<img src="../cardImages/invisible_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/invisible_feet.png" alt="feet" /></p>
+<h3>Castle Wraith</h3>
+<p><img src="../cardImages/knight_head.png" alt="head" />
+<br>
+<img src="../cardImages/knight_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/knight_feet.png" alt="feet" /></p>
+<h3>Icthyosapien</h3>
+<p><img src="../cardImages/lagoon_head.png" alt="head" />
+<br>
+<img src="../cardImages/lagoon_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/lagoon_feet.png" alt="feet" /></p>
+<h3>Asterion</h3>
+<p><img src="../cardImages/minotaur_head.png" alt="head" />
+<br>
+<img src="../cardImages/minotaur_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/minotaur_feet.png" alt="feet" /></p>
+<h3>Amenhotep III</h3>
+<p><img src="../cardImages/mummy_head.png" alt="head" />
+<br>
+<img src="../cardImages/mummy_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/mummy_feet.png" alt="feet" /></p>
+<h3>Erik The Phantom</h3>
+<p><img src="../cardImages/phantom_head.png" alt="head" />
+<br>
+<img src="../cardImages/phantom_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/phantom_feet.png" alt="feet" /></p>
+<h3>Pirana Dionaea</h3>
+<p><img src="../cardImages/plant_head.png" alt="head" />
+<br>
+<img src="../cardImages/plant_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/plant_feet.png" alt="feet" /></p>
+<h3>M.A.R.V.I.N.</h3>
+<p><img src="../cardImages/rob_head.png" alt="head" />
+<br>
+<img src="../cardImages/rob_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/rob_feet.png" alt="feet" /></p>
+<h3>Boney McGee</h3>
+<p><img src="../cardImages/skel_head.png" alt="head" />
+<br>
+<img src="../cardImages/skel_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/skel_feet.png" alt="feet" /></p>
+<h3>Cosmic Revenant</h3>
+<p><img src="../cardImages/spaceghost_head.png" alt="head" />
+<br>
+<img src="../cardImages/spaceghost_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/spaceghost_feet.png" alt="feet" /></p>
+<h3>The Count</h3>
+<p><img src="../cardImages/vamp_head.png" alt="head" />
+<br>
+<img src="../cardImages/vamp_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/vamp_feet.png" alt="feet" /></p>
+<h3>Howler</h3>
+<p><img src="../cardImages/wolf_head.png" alt="head" />
+<br>
+<img src="../cardImages/wolf_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/wolf_feet.png" alt="feet" /></p>
+<h3>Zombie</h3>
+<p><img src="../cardImages/zombie_head.png" alt="head" />
+<br>
+<img src="../cardImages/zombie_torso.png" alt="torso" />
+<br>
+<img src="../cardImages/zombie_feet.png" alt="feet" />
+<br></p>
